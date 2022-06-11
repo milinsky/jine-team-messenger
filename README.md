@@ -1,2 +1,2 @@
-# jine-team-messenger
+# Jine project
 Jine team messenger service backend

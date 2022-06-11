@@ -1,0 +1,1 @@
+rootProject.name = "ru.milinsky.jine-team-messenger"
